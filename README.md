@@ -1,7 +1,7 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Wesam+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Wesam and Welcome to my Profile! animated typed out" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Wesam+and+Welcome+to+my+Profile👋" align="middle" alt="Hey, I'm Wesam and Welcome to my Profile👋 animated typed out" width="100%"/>
     <img src="https://media.licdn.com/dms/image/D4E16AQHN1L5jNGhf9w/profile-displaybackgroundimage-shrink_350_1400/0/1673304292103?e=1680739200&v=beta&t=Bv_tlLif-pPqVbnndUlmL6b3cFWYVj-RZOeaGZVqU-s" alt="">
 <link rel="stylesheet" href="style.css">
-<h1 align="center">Hi 👋, I'm Wesam Othman</h1>
+
 <h3 align="center">Python Full Stack Developer</h3>
 <img align="right" alt="coding" width="400"  src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"
 
