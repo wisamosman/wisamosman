@@ -1,4 +1,5 @@
-<img src="https://media.licdn.com/dms/image/D4E16AQHN1L5jNGhf9w/profile-displaybackgroundimage-shrink_350_1400/0/1673304292103?e=1680739200&v=beta&t=Bv_tlLif-pPqVbnndUlmL6b3cFWYVj-RZOeaGZVqU-s" alt="">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Wesam+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Wesam and Welcome to my Profile! animated typed out" width="100%"/>
+    <img src="https://media.licdn.com/dms/image/D4E16AQHN1L5jNGhf9w/profile-displaybackgroundimage-shrink_350_1400/0/1673304292103?e=1680739200&v=beta&t=Bv_tlLif-pPqVbnndUlmL6b3cFWYVj-RZOeaGZVqU-s" alt="">
 <link rel="stylesheet" href="style.css">
 <h1 align="center">Hi 👋, I'm Wesam Othman</h1>
 <h3 align="center">Python Full Stack Developer</h3>
@@ -23,3 +24,4 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wisamosman" alt="wisamosman" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/wisamosman](https://github.com/wisamosman)
+
